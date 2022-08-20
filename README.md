@@ -2,55 +2,32 @@
 
 # Project Name
 
-> Description the project.
+## Ruby Enumerables
 
-
+In this project we have used module inside class. and we have created a class ```MyList``` and a module ```MyEnumerable```. The module MyEnumerable will implement a subset of the functionality of Enumerable.
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+## Setup
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+    git clone https://github.com/assadounto/Ruby_Enumerables
+    cd enumerables
 
 ## Authors
 
-👤 **Author1**
+👤 **Rich**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@assadounto](https://github.com/assadounto)
+- Twitter: [@adukyerer](https://twitter.com/adukyerer)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/adu-kyere)
 
-👤 **Author2**
+👤 **Ali**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aliatayee](https://github.com/aliatayee)
+- Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
+
+
 
 ## 🤝 Contributing
 
